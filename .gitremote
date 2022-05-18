@@ -1,0 +1,10 @@
+#This is an auto generated template empty property file
+provider=GIT_HUB
+login=
+password=
+token=
+remoteGitUrl=https://api.github.com/
+useSSH=true
+ignore=.*demo.*, test.*
+githubOrg=OrgName
+gitlabGroup=Group/subgroup
